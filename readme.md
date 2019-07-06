@@ -10,4 +10,4 @@
 
 <img src = "./gif5.gif" width=300/>
 
-说明：这是另外一个Activity，即VideoPlay，它被注册为**android.intent.action.VIEW**，然后它有一个data域声明它需要https协议的uri。在mainActivity里通过隐式调用传入网址：https://lf1-hscdn-tos.pstatp.com/obj/developer-baas/baas/tt7217xbo2wz3cem41/a8efa55c5c22de69_1560563154288.mp4，就可以播放一个互联网上的资源。
+说明：这是另外一个Activity，即VideoPlay，它被注册为**android.intent.action.VIEW**，然后它有一个data域声明它需要https协议的uri。在mainActivity里通过隐式调用传入网址：https://lf1-hscdn-tos.pstatp.com/obj/developer-baas/baas/tt7217xbo2wz3cem41/a8efa55c5c22de69_1560563154288.mp4 ，就可以播放一个互联网上的资源。
